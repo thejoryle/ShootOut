@@ -7,7 +7,7 @@
 - Sarah Duncan
 
 ## Project Description
-Introducing **"Shoot Out"**, a classic childhood game with various names across cultures. The game revolves around three actions: reloading, shooting, and shielding. Players must manage their ammunition and strategically use shields to avoid being shot, with the ultimate goal of defeating the opponent by landing a successful shot.
+Introducing **"Shoot Out"**, a classic childhood game with various names across cultures. This computer vision-based game revolves around three actions: reloading, shooting, and shielding. Players must manage their ammunition and strategically use shields to avoid being shot, with the ultimate goal of defeating the opponent by landing a successful shot.
 
 ## Installation
 You can either clone our repo and run shootout.py but you will have to make sure you have our technologies installed
